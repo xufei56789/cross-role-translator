@@ -1,0 +1,8 @@
+fastapi
+uvicorn[standard]
+langgraph
+langchain
+openai
+python-dotenv
+typing_extensions
+volcengine-python-sdk
